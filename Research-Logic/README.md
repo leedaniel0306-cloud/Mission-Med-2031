@@ -1,13 +1,14 @@
 # 🧬 Research Logic & Clinical Querying
 
-Evidence of my ability to translate medical questions into data solutions.
+This directory houses the code used to "interrogate" medical datasets and solve clinical problems.
 
-## 🔬 Current Project: Orthopedic Outcome Predictor
-Analyzing correlations between surgical wait times and geriatric recovery.
+## 🔬 Current Focus: The "Orthopedic Outcome Predictor"
+I am currently learning to use **SQL** to filter patient cohorts and **R** to identify correlations between surgical timing and patient recovery.
 
-## 🛠 Skills Demonstrated
-- **SQL:** Cohort filtering and data joins.
-- **R:** Statistical significance testing and cleaning messy datasets.
+## 📂 Key Files
+- `Ortho_Patient_Query.sql`: A template query for isolating elderly hip-fracture patients.
+- *Coming Soon:* `Recovery_Regression_Model.R`: Analysis of post-operative mobility trends.
 
-## 📂 Featured Files
-- `Ortho_Patient_Query.sql`: Logic for isolating hip-fracture patients over 65.
+## 🛠 Tools Used
+- **SQL:** PostGreSQL / BigQuery logic
+- **R:** tidyverse, ggplot2, dpyr
