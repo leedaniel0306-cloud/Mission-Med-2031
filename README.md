@@ -1,7 +1,7 @@
 # Mission: T20 Physician-Scientist (2028)
 
 ## 📋 Overview
-This repository serves as a permanent log of my technical growth while serving in the ROK Army. My goal is to return to Tufts University in 2028 with a specialist skill set in Medical Data Science and Orthopedic Imaging.
+This repository serves as a permanent log of my technical growth while serving in the ROK Army. My goal is to return to University in 2028 with a specialist skill set in Medical Data Science and Orthopedic Imaging.
 
 ## 🛠 Technical Toolkit
 * **Data:** SQL (Clinical querying), R (Statistical modeling)
