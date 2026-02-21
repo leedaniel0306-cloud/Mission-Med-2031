@@ -1,31 +1,26 @@
-# Physician-Scientist in Training
+# 🩺 Mission-Med-2031
+**Path to Orthopedic Surgery**
 
-Pre-med researcher specializing in **medical data science** and **orthopedic imaging**.
-Returning to university in 2028.
-
----
-
-## Technical Stack
-
-| Domain | Tools |
-|---|---|
-| Clinical Data | SQL, R (`dplyr`, `ggplot2`) |
-| Biostatistics | Linear & Logistic Regression, R |
-| Medical Imaging | 3D Slicer, SlicerIGT |
-| Automation | Python (Slicer API) |
 
 ---
 
-## Projects
+## 🚀 Active Projects
+### 📊 BU Hackathon for Health Equity (Feb 28, 2026)
+* **Focus:** Identifying disparities in healthcare access and orthopedic outcomes.
+* **Role:** Project Lead & Narrative Design (Translating R data into clinical impact).
 
-### 🔬 Orthopedic Outcome Predictor `[In Progress]`
-A clinical data pipeline querying and modeling orthopedic patient outcomes using SQL and R. Focuses on identifying prognostic patterns relevant to surgical decision-making using logistic regression and survival analysis.
+### 🎓 HarvardX: Data Science (PH125.1x)
+* **Status:** Auditing Sections 1-4.
+* **Goal:** Master R programming and Biostatistics before returning to campus.
 
-### 📊 Public Health Hackathon — Health Equity Analysis `[February 2026]`
-Competing in a public health hackathon analyzing population-level datasets (NHANES/BRFSS) to surface health equity insights. Stack: R (`dplyr`, `ggplot2`). Role: data wrangling, visualization, and narrative translation of statistical findings for a clinical audience.
+---
 
-### 🧠 Anatomical Segmentation Gallery `[Pending]`
-A curated set of 3D segmentations of orthopedic anatomy built in 3D Slicer. Demonstrates proficiency in landmark identification and surgical planning workflows.
+## 🛠 Tech Stack & Skills
+* **Language:** R (Intermediate-Beginner)
+* **Libraries:** `tidyverse`, `ggplot2`, `dplyr`
+* **Focus:** Social Determinants of Health (SDoH), Surgical Equity
 
-### ⚙️ Slicer-Python Automation Tool `[Pending]`
-A scripted automation layer for repetitive 3D Slicer tasks using the Slicer Python API, reducing manual overhead in segmentation and image processing pipelines.
+---
+
+## 📬 Contact
+* **GitHub:** @leedaniel0306-cloud
