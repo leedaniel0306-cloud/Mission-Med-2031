@@ -1,20 +1,31 @@
-# Mission: Physician-Scientist
+# Physician-Scientist in Training
 
-## 📋 Overview
-This repository serves as a permanent log of my technical growth while serving in the ROK Army. My goal is to return to University in 2028 with a specialist skill set in Medical Data Science and Orthopedic Imaging.
+Pre-med researcher specializing in **medical data science** and **orthopedic imaging**.
+Returning to university in 2028.
 
-## 🛠 Technical Toolkit
-* **Data:** SQL (Clinical querying), R (Statistical modeling)
-* **Imaging:** 3D Slicer (Segmentation, SlicerIGT)
-* **Automation:** Python (Slicer API)
+---
 
-## 📈 Roadmap & Milestones
-- [ ] **Phase 1: Clinical Data Logic** (In Progress)
-  - Goal: "Orthopedic Outcome Predictor" Project
-- [ ] **Phase 2: Anatomical Imaging** (Pending)
-  - Goal: "Anatomical Segmentation Gallery"
-- [ ] **Phase 3: Automation** (Pending)
-  - Goal: "Slicer-Python Automation Tool"
+## Technical Stack
 
-## 🎖 Military Service Integration
-I am utilizing my time in the ROK Army to develop the discipline and technical expertise required for high-stakes medical research environments.
+| Domain | Tools |
+|---|---|
+| Clinical Data | SQL, R (`dplyr`, `ggplot2`) |
+| Biostatistics | Linear & Logistic Regression, R |
+| Medical Imaging | 3D Slicer, SlicerIGT |
+| Automation | Python (Slicer API) |
+
+---
+
+## Projects
+
+### 🔬 Orthopedic Outcome Predictor `[In Progress]`
+A clinical data pipeline querying and modeling orthopedic patient outcomes using SQL and R. Focuses on identifying prognostic patterns relevant to surgical decision-making using logistic regression and survival analysis.
+
+### 📊 Public Health Hackathon — Health Equity Analysis `[February 2026]`
+Competing in a public health hackathon analyzing population-level datasets (NHANES/BRFSS) to surface health equity insights. Stack: R (`dplyr`, `ggplot2`). Role: data wrangling, visualization, and narrative translation of statistical findings for a clinical audience.
+
+### 🧠 Anatomical Segmentation Gallery `[Pending]`
+A curated set of 3D segmentations of orthopedic anatomy built in 3D Slicer. Demonstrates proficiency in landmark identification and surgical planning workflows.
+
+### ⚙️ Slicer-Python Automation Tool `[Pending]`
+A scripted automation layer for repetitive 3D Slicer tasks using the Slicer Python API, reducing manual overhead in segmentation and image processing pipelines.
